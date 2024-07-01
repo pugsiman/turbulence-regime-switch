@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "turbulence-regime-switch"
+version = "0.1.0"
+description = ""
+authors = ["Aviv Levinsky <levinskyaviv@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+yahooquery = "^2.3.7"
+pandas = "^2.2.2"
+numpy = "^2.0.0"
+plotly = "^5.22.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
