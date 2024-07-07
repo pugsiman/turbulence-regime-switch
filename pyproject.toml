@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "turbulence-regime-switch"
+name = "turbulence_regime_switch"
 version = "0.1.0"
 description = ""
 authors = ["Aviv Levinsky <levinskyaviv@gmail.com>"]
